@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Weather</string>
+
+    <color name="min">#03A9F4</color>
+    <color name="max">#FF5722</color>
+    <color name="mid">#424242</color>
+
+</resources>

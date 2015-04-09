@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+    <item android:id="@+id/action_search"
+        android:title="Фильтр"
+
+        app:showAsAction="ifRoom"
+        app:actionViewClass="android.widget.SearchView" />
+    <item android:id="@+id/action_refresh"
+        android:icon="@mipmap/ic_autorenew_white_24dp"
+        android:title="Добавить"
+        app:showAsAction="ifRoom"
+        />
+</menu>
